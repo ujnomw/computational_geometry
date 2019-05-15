@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/trplhat/CLionProjects/geometry/geometry.cpp
+geometry.h
+/home/trplhat/CLionProjects/geometry/geometry.h
+templ_stack.h
+/home/trplhat/CLionProjects/geometry/templ_stack.h
+cmath
+-
+iostream
+-
+algorithm
+-
+iomanip
+/home/trplhat/CLionProjects/geometry/iomanip
+
+/home/trplhat/CLionProjects/geometry/geometry.h
+
+/home/trplhat/CLionProjects/geometry/main.cpp
+iostream
+-
+geometry.h
+/home/trplhat/CLionProjects/geometry/geometry.h
+iomanip
+-
+
+/home/trplhat/CLionProjects/geometry/templ_stack.h
+
